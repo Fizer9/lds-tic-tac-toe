@@ -1,0 +1,9 @@
+img {
+    max-width: 148px;
+    max-height: 220px;
+}
+
+img.slot {
+    max-width: 180px;
+    max-height: 225px;
+}
